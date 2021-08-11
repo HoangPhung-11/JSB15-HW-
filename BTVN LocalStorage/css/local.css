@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    flex-flow: column;
+}
+button{
+    width: 200px;
+}
